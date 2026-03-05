@@ -11,4 +11,3 @@ Computer Science student at **Nazarbayev University** and **Tomorrow School**.
 ## Currently Learning
 - Data Structures and Algorithms
 - Backend Development
-- 
