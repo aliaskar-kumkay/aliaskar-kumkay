@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm
 
-<!--
-**aliaskar-kumkay/aliaskar-kumkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Nazarbayev University** and **Tomorrow School**.  
+18 years old.
 
-Here are some ideas to get you started:
+## About
+- CS major at Nazarbayev University
+- Student at Tomorrow School
+- Interested in software development and technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures and Algorithms
+- Backend Development
+- 
